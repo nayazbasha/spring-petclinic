@@ -5,3 +5,4 @@ def call(String branchName) {
         cat branch.txt
         '''
     }
+}
